@@ -1,11 +1,12 @@
 # Predicting Job Placement: A Comparative Analysis of GPA and Institution Name
-## Karen Yuan & Mana Furumiya
+### Karen Yuan & Mana Furumiya
 
 ## Project Overview
 The project investigates the relative contribution of institutional background and academic performance of graduate job placement prediction.
 
 ## Dataset
 Job placement dataset
+
 Link: https://www.kaggle.com/datasets/mahad049/job-placement-dataset
 
 ## Requirements
@@ -23,10 +24,15 @@ Install the required libraries using this command: `pip install pandas scikit-le
 
 ## Machine Learning Configuration:
 Algorithm: Random Forest Classifier
+
 Number of trees: 100
+
 Model random state: 42
+
 Training/testing split: 80% / 20%
+
 Data split random state: 28
+
 Primary evaluation metric: Accuracy
 
 ## Limitations
